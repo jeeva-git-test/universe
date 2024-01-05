@@ -1,4 +1,4 @@
-Earth
+Earth 2
 Mars
 Mercury
 venus
